@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "726052790850",
+    "firebase_url": "https://carservices-7f304.firebaseio.com",
+    "project_id": "carservices-7f304",
+    "storage_bucket": "carservices-7f304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726052790850:android:b2791d5d65588c10a8c3db",
+        "android_client_info": {
+          "package_name": "com.carservices.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726052790850-m4426425p8vfotssau7dcrgrc5tu3jdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_d3R-uVoDwsdCehc57XFRaTuyOcj6djY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726052790850-m4426425p8vfotssau7dcrgrc5tu3jdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
